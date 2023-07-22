@@ -10,7 +10,7 @@ contains the analysis and visualizations of the results.
 
 ### Our Final Data File
 
-[Here](https://drive.google.com/file/d/1SOhHDliVwSn6BxNU5vgritdiuqNTAqpf/view?usp=sharing) you can download the final CSV file that we created after collecting and processing the data. 
+[Here](https://drive.google.com/file/d/1UneExPO0cTGpaTv4QiKDrn7zKHxrCzND/view?usp=sharing) you can download the final CSV file that we created after collecting and processing the data. 
 Explanation of each column:
 <br/>
 > **article_id_openalex** represents the identifier of an article as represented in OpenAlex.
