@@ -35,15 +35,3 @@ pip install gdown
 pip install glob2
 pip install tqdm
 ```
-
-
-### Citation
-If you find the project useful for your research, please cite:
-```
-@article{???,
-  title={???},
-  author={????},
-  journal={????},
-  year={???}
-}
-```
