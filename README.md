@@ -39,3 +39,7 @@ pip install kaggle
 pip install numpy
 pip install AST
 ```
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
