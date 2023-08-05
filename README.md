@@ -35,4 +35,7 @@ pip install requests
 pip install gdown
 pip install glob2
 pip install tqdm
+pip install kaggle
+pip install numpy
+pip install AST
 ```
